@@ -1,0 +1,22 @@
+SITE PARA O VINÍCIUS
+
+A versão atual foi pensada principalmente para celular.
+
+- A primeira tela mantém a foto de vocês como fundo.
+- O envelope abre mais devagar, com animação em 3D.
+- A carta agora é VERTICAL: basta descer a tela lendo normalmente.
+- No final da carta existe um botão para continuar.
+- Depois da carta, as fotos ficam em um carrossel que muda ao passar o dedo.
+- As fotos usam exatamente o mesmo tamanho/área visual para ficarem padronizadas.
+- Não há textos de marcação sobre as fotos.
+- O escudo enviado foi usado no selo e nos detalhes; o branco interno do escudo é preservado e apenas o fundo externo é transparente.
+
+Arquivos:
+index.html
+style.css
+script.js
+assets/corinthians.png
+assets/foto-capa.jpg
+assets/foto1.jpg
+assets/foto2.jpg
+assets/foto-neymar.jpg
